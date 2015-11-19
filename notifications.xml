@@ -1,0 +1,8 @@
+<application>
+  <component name="NotificationConfiguration" showBalloons="false">
+    <notification groupId="IDE Usage Statistics" displayType="STICKY_BALLOON" />
+    <notification groupId="Power Save Mode" displayType="STICKY_BALLOON" />
+    <notification groupId="System Health (minor)" />
+    <notification groupId="Web Deployment: Remote Host" displayType="TOOL_WINDOW" />
+  </component>
+</application>
