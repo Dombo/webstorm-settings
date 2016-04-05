@@ -1,0 +1,13 @@
+<templateSet group="JavaScript">
+  <template name="esteComp" value="class $componentName$ extends Component {&#10;&#10;  constructor(props) {&#10;    super(props);&#10;  }&#10;&#10;  static propTypes = {&#10;    msg: PropTypes.object.isRequired&#10;  };&#10;&#10;  render() {&#10;&#10;    return (&#10;      &lt;div className=&quot;&quot;&gt;&#10;      &lt;/div&gt;&#10;    );&#10;  }&#10;&#10;}&#10;&#10;export default $componentName$;" description="Scaffold out a react component for Este" toReformat="false" toShortenFQNames="true">
+    <variable name="componentName" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JS_EXPRESSION" value="true" />
+      <option name="JSX_HTML" value="true" />
+      <option name="JS_STATEMENT" value="true" />
+      <option name="TypeScript" value="true" />
+      <option name="CoffeeScript" value="true" />
+    </context>
+  </template>
+</templateSet>
