@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern=".babelrc" type="JSON" />
       <mapping ext="php" type="PHP" />
+      <mapping pattern="Dockerfile" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
