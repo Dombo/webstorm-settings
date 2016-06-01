@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="16">
     <extensionMap>
       <mapping pattern=".babelrc" type="JSON" />
+      <mapping ext="template" type="JSON" />
       <mapping ext="php" type="PHP" />
       <mapping pattern="DockerFile" type="PLAIN_TEXT" />
     </extensionMap>
