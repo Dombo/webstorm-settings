@@ -4,6 +4,7 @@
       <mapping pattern=".babelrc" type="JSON" />
       <mapping ext="template" type="JSON" />
       <mapping ext="php" type="PHP" />
+      <mapping pattern="tmp" type="PLAIN_TEXT" />
       <mapping pattern="DockerFile" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
